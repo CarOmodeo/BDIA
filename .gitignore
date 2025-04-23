@@ -1,0 +1,24 @@
+# Ignorar entorno de programación
+tp4-VectorDatabases/basesdatosIA/
+
+# Ignorar almacenamiento de chroma
+tp4-VectorDatabases/chroma_store/
+
+# Archivos temporales de Jupyter
+*.ipynb_checkpoints
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales comunes
+env/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de VSCode
+.vscode/
