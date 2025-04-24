@@ -22,6 +22,13 @@ Este repositorio contiene los trabajos prácticos realizados para la materia **B
   - Se abordaron todos los puntos del TP.
   - Se completó el punto opcional utilizando el modelo de lenguaje **Hermes 3**, el cual permitió realizar preguntas sobre los documentos vectorizados.
 
+- **tp-final-MongoDB**  
+  Se realizó el trabajo práctico final eligiendo la opción de **MongoDB**:
+
+  - Se desarrollaron todas las consultas requeridas por el enunciado del práctico.
+  - Se incluye el archivo `mongodb.js` con el código de las consultas implementadas.
+  - Se adjunta un PDF con las consultas realizadas y las respuestas obtenidas a partir de las ejecuciones en la base de datos.
+
 ## Notas adicionales
 
 - Los entornos virtuales y archivos generados automáticamente han sido excluidos mediante `.gitignore`.
